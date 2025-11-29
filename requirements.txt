@@ -1,0 +1,11 @@
+streamlit
+mediapipe
+opencv-python
+numpy
+matplotlib
+seaborn
+fpdf
+python-dotenv
+langchain-google-genai
+langchain-core
+langchain-openai
